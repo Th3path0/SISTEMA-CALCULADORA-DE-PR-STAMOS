@@ -1,0 +1,16 @@
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.exe
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.deps.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.runtimeconfig.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.runtimeconfig.dev.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\ref\proyecto final prueba.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\bin\Debug\net5.0\proyecto final prueba.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.csprojAssemblyReference.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.AssemblyInfoInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.AssemblyInfo.cs
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.csproj.CoreCompileInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\ref\proyecto final prueba.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\proyecto final prueba\obj\Debug\net5.0\proyecto final prueba.genruntimeconfig.cache
